@@ -1,0 +1,35 @@
+2024-03-25 15:33:48 [INFO ] BitcoinSender.main(BitcoinSender.java:24) - Адрес кошелька: myhz68HSJRfEyQE9dAy1pLpYaEV25JmqKz
+2024-03-25 15:38:47 [INFO ] BitcoinSender.main(BitcoinSender.java:23) - Мнемоническая фраза: [foot, call, marine, clog, science, close, nuclear, page, area, expect, culture, small]
+2024-03-25 15:38:47 [INFO ] BitcoinSender.main(BitcoinSender.java:24) - Адрес кошелька: myYs5bj6F1hoLTinW2ZDCBHJVQEymhF1FY
+2024-03-25 15:38:47 [INFO ] BitcoinSender.processUserInput(BitcoinSender.java:51) - Вы действительно хотите отправить деньги? (Y/N)
+2024-03-25 15:38:47 [INFO ] services.BalanceService.checkBalance(BalanceService.java:38) - Текущий баланс: 0
+2024-03-25 15:39:04 [WARN ] BitcoinSender.processUserInput(BitcoinSender.java:63) - Введена неправильная команда
+2024-03-25 15:39:04 [INFO ] BitcoinSender.processUserInput(BitcoinSender.java:51) - Вы действительно хотите отправить деньги? (Y/N)
+2024-03-25 15:39:45 [INFO ]2024-03-25 15:39:45 [INFO ]2024-03-25 15:39:46 [INFO ]2024-03-25 15:39:46 [INFO ]2024-03-25 15:40:00 [INFO ] BitcoinSender.main(BitcoinSender.java:23) - Мнемоническая фраза: [dose, cable, misery, parade, roast, orbit, ten, among, now, apology, cushion, element]
+2024-03-25 15:40:00 [INFO ] BitcoinSender.main(BitcoinSender.java:24) - Адрес кошелька: mmAdBAJ9Kk5ytULvoMHTLfVHcKB1L9G9ny
+2024-03-25 15:40:00 [INFO ] BitcoinSender.processUserInput(BitcoinSender.java:51) - Вы действительно хотите отправить деньги? (Y/N)
+2024-03-25 15:40:00 [INFO ] services.BalanceService.checkBalance(BalanceService.java:38) - Текущий баланс: 0
+2024-03-25 15:40:19 [INFO ] Мнемоническая фраза: [stuff, pipe, recall, name, color, solution, tattoo, dash, casual, draft, catalog, victory]
+2024-03-25 15:40:19 [INFO ] Адрес кошелька: mttx8nNTLQ6wGZ6eApuyLxxYSfqrrM7sKS
+2024-03-25 15:40:20 [INFO ] Вы действительно хотите отправить деньги? (Y/N)
+2024-03-25 15:40:20 [INFO ] Текущий баланс: 0
+2024-03-25 15:40:27 [INFO ] Мнемоническая фраза: [excuse, odor, hint, limit, axis, verb, engage, spin, maple, tube, home, today]
+2024-03-25 15:40:27 [INFO ] Адрес кошелька: ms9hLSQMdNwgJdSmTWhsZkEgirpAfoCS2k
+2024-03-25 15:40:28 [INFO ] Вы действительно хотите отправить деньги? (Y/N)
+2024-03-25 15:40:28 [INFO ] Текущий баланс: 0
+2024-03-25 15:40:48 [%] Мнемоническая фраза: [cruel, traffic, law, junior, coil, vanish, arrange, awesome, puzzle, yellow, interest, monitor]
+2024-03-25 15:40:48 [%] Адрес кошелька: mnnqd9A8gfG7zCnv14upCR1JBM8hecFez4
+2024-03-25 15:40:49 [%] Вы действительно хотите отправить деньги? (Y/N)
+2024-03-25 15:40:49 [%] Текущий баланс: 0
+2024-03-25 15:41:01 [INFO] Мнемоническая фраза: [address, sphere, tower, wealth, acid, remind, impact, tonight, quit, resemble, unique, buddy]
+2024-03-25 15:41:01 [INFO] Адрес кошелька: mvqo2DLaCt6myxAsnqT9ga5MyEQScteVRV
+2024-03-25 15:41:02 [INFO] Вы действительно хотите отправить деньги? (Y/N)
+2024-03-25 15:41:02 [INFO] Текущий баланс: 0
+2024-03-25 15:41:10 [INFO] Мнемоническая фраза: [save, point, trophy, utility, trip, verify, neck, upset, junior, horse, celery, prevent]
+2024-03-25 15:41:10 [INFO] Адрес кошелька: mjgnMDP33n4s2PsZzdPM4BU2QNp8FaqgjP
+2024-03-25 15:41:10 [INFO] Вы действительно хотите отправить деньги? (Y/N)
+2024-03-25 15:41:10 [INFO] Текущий баланс: 0
+2024-03-25 15:41:19 [WARN] Введена неправильная команда
+2024-03-25 15:41:19 [INFO] Вы действительно хотите отправить деньги? (Y/N)
+2024-03-25 15:41:25 [ERROR] Insufficient money,  missing 0.00001 BTC
+2024-03-25 15:41:25 [INFO] Вы действительно хотите отправить деньги? (Y/N)
